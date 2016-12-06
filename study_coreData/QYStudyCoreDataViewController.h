@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  QYStudyCoreDataViewController.h
 //  study_coreData
 //
 //  Created by MAC on 2016/12/6.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface QYStudyCoreDataViewController : UIViewController
 
 @end
-
