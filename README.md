@@ -1,1 +1,2 @@
 # study_coreData
+根据第三方库MagicalRecord完成对数据的增删改查操作
